@@ -1,0 +1,14 @@
+{
+  "logFile": "disk-analyzer.log",
+  "reportFile": "cleanup-candidates.txt",
+  "barWidth": 20,
+  "barCharacter": "#",
+  "progressFilledCharacter": "#",
+  "progressEmptyCharacter": "-",
+  "sizeUnits": "automatic",
+  "defaultSort": "sizeDescending",
+  "followSymbolicLinks": false,
+  "showHiddenDirectories": true,
+  "maximumCachedDirectories": 10000,
+  "minimumDisplayedSizeBytes": 0
+}

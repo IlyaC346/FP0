@@ -1,0 +1,15 @@
+# результаты компиляции sbt
+target/
+project/target/
+project/project/
+
+# настройки IntelliJ и sbt
+.idea/
+.bsp/
+
+# собранная программа (пересобирается командой: sbt assembly)
+disk-analyzer.jar
+
+# файлы, которые программа создаёт во время работы
+*.log
+cleanup-candidates.txt
